@@ -1,0 +1,16 @@
+.Wrapper {
+    display: grid;
+    grid-template-columns: 10% 90%;
+    height: 98vh;
+    margin: 1vh 1vh 1vh 1vh;
+}
+
+.col-1 {
+    background: rgb(177, 173, 173);
+    border: 2px solid black;
+    text-align: center;
+}
+.col-2 {
+    background: rgb(228, 223, 223);
+    border: 2px solid black;
+}
