@@ -1,0 +1,8 @@
+.Diamond {
+    border: 1px solid black;
+    transform: rotate(45deg);
+    text-align: center;
+    width: 75px;
+    height: 75px;
+    background: pink;
+}

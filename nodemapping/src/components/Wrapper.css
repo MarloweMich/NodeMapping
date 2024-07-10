@@ -14,3 +14,9 @@
     background: rgb(228, 223, 223);
     border: 2px solid black;
 }
+
+.ShapeContainer {
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 45%;
+}

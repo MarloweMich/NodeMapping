@@ -1,0 +1,7 @@
+.Square {
+    border: 1px solid black;
+    text-align: center;
+    width: 75px;
+    height: 75px;
+    background: green;
+}
