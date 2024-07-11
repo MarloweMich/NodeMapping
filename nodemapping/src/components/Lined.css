@@ -1,0 +1,15 @@
+.LinedWrapper {
+    text-align: center;
+}
+
+.SolidLine {
+    border: 1px solid black;
+    width: 75px;
+    height: 5px;
+    background: rgb(77, 77, 209);
+}
+
+.ClearLine {
+    width: 75px;
+    height: 4px;
+}
